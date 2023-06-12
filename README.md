@@ -7,3 +7,6 @@ An Application that provides provision for the users to park their vehicles in a
 ![image](https://github.com/VineethBhanukoti/Smart-Valet-Application/assets/105901442/bb54699e-b901-4a29-9674-6f6281aa2811)
 ![image](https://github.com/VineethBhanukoti/Smart-Valet-Application/assets/105901442/576ac685-a264-49f9-9ca9-225911e4c1c2)
 ![image](https://github.com/VineethBhanukoti/Smart-Valet-Application/assets/105901442/44fc34e3-6461-478d-a493-19002ebfcea0)
+
+The Data FLow diagram of the same is given below.
+![image](https://github.com/VineethBhanukoti/Smart-Valet-Application/assets/105901442/76fd2088-c4f7-4254-87ff-dd3996753299)
